@@ -16,12 +16,16 @@ Features:
 - Saves and reuses wordlist paths
 - Clean colored output with Colorama
 
+/*
 Installation (for Termux/Linux):
 --------------------------------
 pkg update && pkg upgrade
 pkg install python git
 pip install colorama tqdm
-pkg install hashcat john
+pkg install hashcat
+pkg install john
+*/
+
 
 Usage:
 ------
